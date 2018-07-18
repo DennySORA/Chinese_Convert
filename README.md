@@ -10,7 +10,7 @@
 
 Youtube : https://youtu.be/eBEyuR6KYlE
 
-Bilibili : 
+Bilibili : https://www.bilibili.com/video/av27164434/
 
 新版增加了批量轉換功能。
 
