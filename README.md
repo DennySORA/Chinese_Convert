@@ -28,8 +28,12 @@ Bilibili : https://www.bilibili.com/video/av27164434/
 
 ***
 作者：SORA
+
 E-mail：window930030@gmail.com
 
+
 支持作者小額捐款：
+
 支付寶帳號： 886-988954004
+
 Paypal：https://paypal.me/dennySORA
