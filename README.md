@@ -1,4 +1,4 @@
-# Chinese_simplified_to_traditional_converter(epbu、txt)
+# Chinese simplified to traditional converter(epbu、txt)
 ## 簡繁轉化程式(包含:epbu、txt)
 
 ***
