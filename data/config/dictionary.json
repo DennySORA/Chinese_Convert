@@ -33,7 +33,7 @@
       "【": "】",
       "[": "]"
     },
-    "Convert_Language":"t2s",
+    "Convert_Language":"s2t",
     "Pool" : "None",
     "Decode": ["utf-8", "GBK", "utf-16"]
   }
